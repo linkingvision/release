@@ -1,8 +1,8 @@
 # RapidVMS #
 
-*  [Rapidvms-r3.0.1225.16-win32-release](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.0.1225.16-win32-release.zip)
+*  [Rapidvms-r3.1.0118.17-win32-release](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.1.0118.17-win32-release.zip)
 
-*  [Rapidvms-r3.0.1225.16-win64-release](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.0.1225.16-win64-release.zip)
+*  [Rapidvms-r3.1.0118.17-win64-release](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.1.0118.17-win64-release.zip)
 
 *  [old version](https://github.com/veyesys/version/tree/master/rapidvms)
 
