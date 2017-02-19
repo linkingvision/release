@@ -1,0 +1,15 @@
+r3.2 0219 17
+1.Add H265 rtsp relay
+2. Motion region edit.
+3. openssl update for ssl server
+4. update the switch control style.
+
+r3.1 0118 17
+1.Change ONVIF function from Qt to GSOAP 2.7
+2.Add HW decode for windows.
+3.Fix a license import issue.
+
+r3.0 1225 16
+1.Add pre record for alarm
+2.Change the configure path to home dir.
+3.Change name to Rapidvms.
