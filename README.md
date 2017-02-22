@@ -6,7 +6,7 @@
 
 *  [Rapidvms-r3.2.0219.17-Ubuntu-16.04-64bit.tar.gz](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.2.0219.17-Ubuntu-16.04-64bit.tar.gz)
 
-*  [Rapidvms-r3.1.0118.17-macos-64bit.tar.gz](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.1.0118.17-macos-64bit.tar.gz)
+*  [Rapidvms-r3.2.0219.17-macos-10.12-64bit.tar.gz](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r3.2.0219.17-macos-10.12-64bit.tar.gz)
 
 
 *  [old version](https://github.com/veyesys/version/tree/master/rapidvms)
