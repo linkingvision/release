@@ -4,7 +4,7 @@
 
 *  [Rapidvms-r4.0.0625.17-win64-release.zip](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r4.0.0625.17-win64-release.zip)
 
-*  [Rapidvms-r4.0.0625.17-Ubuntu-16.04-64bit.tar.gz](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r4.0.0625.17-Ubuntu-16.04-64bit.tar.gz)
+*  [Rapidvms-r4.2.0710.17-CentOS-7.3.1611-64bit.tar.gz](https://github.com/veyesys/version/raw/master/Rapidvms-r4.2.0710.17-CentOS-7.3.1611-64bit.tar.gz)
 
 *  [Rapidvms-r4.0.0625.17-macos-10.12-64bit.tar.gz](https://github.com/veyesys/version/raw/master/rapidvms/Rapidvms-r4.0.0625.17-macos-10.12-64bit.tar.gz)
 
